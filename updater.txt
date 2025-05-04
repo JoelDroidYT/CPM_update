@@ -1,0 +1,18 @@
+{
+  "CPM_update": [
+    {
+ "version":"9.3",
+ "title":"Update Disponible",
+ "description":"RewhasApp Oficial V9.65
+
+Base: 2.23 1.76
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+Nuevo Systema de Actualización 
+
+ Actualización AntiBaneo disponible ",
+"download":"https://youtube.com/@joeldroidyt?si=4dCpKlbMIi1GM6MD"
+}
+  ]
+}
